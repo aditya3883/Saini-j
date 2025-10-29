@@ -8,7 +8,7 @@ API_HASH = environ.get("API_HASH", "6efd58342f75a088f8a7b4a15bdd35cd")
 BOT_TOKEN = environ.get("BOT_TOKEN", "8436952500:AAHF4RwCQRg3dm_nAThjzsmXbBxZpC9Hpzs")
 
 OWNER = int(environ.get("OWNER", "8277882193"))
-CREDIT = environ.get("CREDIT", "Aditya Op")
+CREDIT = environ.get("CREDIT", "@Genius_Hub_Official_01 ⚡")
 cookies_file_path = os.getenv("cookies_file_path", "youtube_cookies.txt")
 
 TOTAL_USER = os.environ.get('TOTAL_USERS', '8277882193').split(',')
